@@ -1,4 +1,3 @@
-// src/infrastructure/http/controllers/laneController.js
 const LaneMongoRepository = require("../../persistence/mongoose/repositories/LaneMongoRepository")
 
 const CreateLane = require("../../../application/lanes/CreateLane")
